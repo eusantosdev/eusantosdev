@@ -1,4 +1,5 @@
 🛠️ Sobre Mim  
+
 Olá! Sou um desenvolvedor back-end focado em criar APIs RESTful eficientes e bem documentadas. Tenho experiência com Node.js, Express, e Firebase, e estou em busca de um estágio para colocar meu aprendizado em prática e colaborar com projetos desafiadores.  
 
 📌 Tecnologias e Ferramentas  
