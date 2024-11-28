@@ -2,7 +2,7 @@
 Olá! Sou um desenvolvedor back-end focado em criar APIs RESTful eficientes e bem documentadas. Tenho experiência com Node.js, Express, e Firebase, e estou em busca de um estágio para colocar meu aprendizado em prática e colaborar com projetos desafiadores.  
 
 📌 Tecnologias e Ferramentas  
-- Linguagem: JavaScript (Node.js)  
+- Linguagem: JavaScript, TypeScript (Node.js)  
 - Frameworks: Express.js  
 - Banco de Dados: Firebase (Realtime Database e Firestore)  
 - Testes e Documentação: Postman, Swagger  
