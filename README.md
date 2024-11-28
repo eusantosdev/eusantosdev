@@ -14,5 +14,5 @@ Olá! Sou um desenvolvedor back-end focado em criar APIs RESTful eficientes e be
 - Integração contínua e deploy com ferramentas como Docker e CI/CD  
 
 📬 Como me encontrar  
-- Email: eusantosdev@gamil.com
+- Email: eusantosdev@gmail.com
 - LinkedIn: www.linkedin.com/in/alessandro-santos-nodejs 
