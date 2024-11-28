@@ -14,6 +14,5 @@ Olá! Sou um desenvolvedor back-end focado em criar APIs RESTful eficientes e be
 - Integração contínua e deploy com ferramentas como Docker e CI/CD  
 
 📬 Como me encontrar  
-- Email: [SeuEmail@email.com]  
-- LinkedIn: [Seu LinkedIn](#)  
-- Portfólio: [Seu Portfólio](#)  
+- Email: eusantosdev@gamil.com
+- LinkedIn: www.linkedin.com/in/alessandro-santos-895817245  
