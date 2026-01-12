@@ -34,11 +34,11 @@ Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como e
 />
 <img 
     align="left" 
-    alt=""
-    title="TypeScript" 
+    alt="AWS"
+    title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
