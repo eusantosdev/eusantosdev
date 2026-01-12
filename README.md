@@ -18,23 +18,23 @@ Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como e
 />
 <img 
     align="left" 
-    alt="" 
-    title="CSS"
+    alt="SPRING-BOOT" 
+    title="SPRING-BOOT"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="POSTGRESQL" 
+    title="POSTGRESQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
+    alt=""
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -42,11 +42,11 @@ Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como e
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="DOCKER"
+    title="DOCKER" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 <img 
     align="left" 
