@@ -12,7 +12,7 @@ Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como e
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -20,7 +20,7 @@ Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como e
     align="left" 
     alt="SPRING-BOOT" 
     title="SPRING-BOOT"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
 />
@@ -28,7 +28,7 @@ Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como e
     align="left" 
     alt="POSTGRESQL" 
     title="POSTGRESQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
