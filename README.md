@@ -1,38 +1,11 @@
-## eusantosdev
+<p align="left">Alessandro Santos</p>
 
-**`Desenvolvedor Back-End`**
+###
 
-Sou Alessandro Santos, tenho 20 anos e sou natural de Recife, Pernambuco. Como estudante de Análise e Desenvolvimento de Sistemas pela UNIBRA, desenvolvo habilidades em backend e integração de sistemas com foco em APIs REST e bancos de dados. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eusantosdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eusantosdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eusantosdev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="SPRING-BOOT" 
-    title="SPRING-BOOT"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="POSTGRESQL" 
-    title="POSTGRESQL"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-
----
-
-### 📊 Estatísticas
+###
