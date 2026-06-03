@@ -1,25 +1,15 @@
-<p align="left">Alessandro Santos</p>
+👨‍💻 About Me
 
-###
+I'm Full Stack Developer, passionate about building scalable and efficient applications.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eusantosdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eusantosdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eusantosdev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+Currently, I'm focused on learning and improving my skills in Node.js, Express, TypeScript, MongoDB, and Object-Oriented Programming. I enjoy understanding how APIs, databases, authentication systems, and software architecture work behind the scenes.
 
-###
+I'm constantly working on personal projects to strengthen my practical experience and deepen my knowledge of Back-End development. My goal is to become a professional developer capable of building reliable solutions and contributing to impactful software products.
 
-<p align="left">Tecnologias</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
+🚀 Currently learning:
+• Node.js
+• Express.js
+• TypeScript
+• MongoDB
+• Object-Oriented Programming (OOP)
+• Software Architecture
