@@ -1,17 +1,37 @@
-# Hi, I'm Alessandro Santos
+# Hi, I'm Alessandro Santos 👋
 
 ## 👨‍💻 About Me
 
-I'm Full Stack Developer, passionate about building scalable and efficient applications.
+I'm a Full Stack Developer in training, passionate about technology and building scalable, efficient, and user-focused applications.
 
-Currently, I'm focused on learning and improving my skills in Node.js, Express, TypeScript, MongoDB, and Object-Oriented Programming. I enjoy understanding how APIs, databases, authentication systems, and software architecture work behind the scenes.
+Currently, I'm improving my skills in Node.js, JavaScript, Python, MongoDB, and software development. I'm particularly interested in APIs, databases, authentication systems, software architecture, and development best practices.
 
-I'm constantly working on personal projects to strengthen my practical experience and deepen my knowledge of Back-End development. My goal is to become a professional developer capable of building reliable solutions and contributing to impactful software products.
+I continuously build personal projects to turn knowledge into practical experience and strengthen my problem-solving skills. My goal is to grow as a developer, build reliable solutions, and contribute to impactful software products.
 
-🚀 Currently learning:
-• Node.js
-• Express.js
-• TypeScript
-• MongoDB
-• Object-Oriented Programming (OOP)
-• Software Architecture
+## 🛠️ Technologies & Tools
+
+### 💻 Languages & Frameworks
+
+* Node.js
+* JavaScript
+* Python
+
+### ☁️ Databases, Cloud & DevOps
+
+* MongoDB
+* Docker
+* AWS
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+## 📫 Let's Connect
+
+* LinkedIn: linkedin.com/in/eusantosdev
+* Email: [eusantosdev@gmail.com](mailto:eusantosdev@gmail.com)
+
+> 🌎 Go Global or Nothing
