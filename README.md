@@ -34,4 +34,4 @@ I continuously build personal projects to turn knowledge into practical experien
 * LinkedIn: linkedin.com/in/eusantosdev
 * Email: [eusantosdev@gmail.com](mailto:eusantosdev@gmail.com)
 
-> 🌎 Go Global or Nothing
+> 🌐 Go Global or Nothing
