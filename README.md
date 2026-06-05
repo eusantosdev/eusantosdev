@@ -31,10 +31,8 @@ I continuously build personal projects to turn knowledge into practical experien
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
 </p>
-
-* VS Code
-* Postman
 
 ## 📫 Let's Connect
 
