@@ -38,7 +38,7 @@ I continuously build personal projects to turn knowledge into practical experien
 
 ## 📫 Let's Connect
 
-* LinkedIn: [Alessandro Santos](linkedin.com/in/eusantosdev)
+* LinkedIn: [Alessandro Santos](https://linkedin.com/in/eusantosdev)
 * Email: [eusantosdev@gmail.com](mailto:eusantosdev@gmail.com)
 
 > 🌐 Go Global or Nothing
