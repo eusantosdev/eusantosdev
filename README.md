@@ -1,42 +1,19 @@
-# Hi, I'm Alessandro Santos 👋
+<img align="right" width="400" height="400"
+src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+# Welcome!
+## I'm Lucas! Let me present a little about myself :D
+Full-Stack focused in Ruby on Rails | Software engineer :robot:
+Lover of Technology and coding :heart:
+## About me
 
-## 👨‍💻 About Me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
+square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
 
-I'm a Full Stack Developer in training, passionate about technology and building scalable, efficient, and user-focused applications.
+(https://github.com/Lucasdfg07)
 
-Currently, I'm improving my skills in Node.js, JavaScript, Python, MongoDB, and software development. I'm particularly interested in APIs, databases, authentication systems, software architecture, and development best practices.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
+square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-
+167362148/)](https://www.linkedin.com/in/lucas-siqueira-167362148/)
 
-I continuously build personal projects to turn knowledge into practical experience and strengthen my problem-solving skills. My goal is to grow as a developer, build reliable solutions, and contribute to impactful software products.
-
-## 🛠️ Technologies & Tools
-
-### 💻 Languages & Frameworks
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</p>
-
-### ☁️ Databases, Cloud & DevOps
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
-</p>
-
-## 📫 Let's Connect
-
-* LinkedIn: [Alessandro Santos](https://linkedin.com/in/eusantosdev)
-* Email: [eusantosdev@gmail.com](mailto:eusantosdev@gmail.com)
-
-> 🌐 Go Global or Nothing
+- Thanks for visiting.
+- Enjoy it!! o/
