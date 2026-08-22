@@ -1,19 +1,35 @@
-<img align="right" width="400" height="400"
-src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-# Welcome!
-## I'm Lucas! Let me present a little about myself :D
-Full-Stack focused in Ruby on Rails | Software engineer :robot:
-Lover of Technology and coding :heart:
-## About me
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
+###
 
-(https://github.com/Lucasdfg07)
+<p data-importer="text" align="left">My name is Alessandro Santos and I'm a Full Stack Developer</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-
-167362148/)](https://www.linkedin.com/in/lucas-siqueira-167362148/)
+###
 
-- Thanks for visiting.
-- Enjoy it!! o/
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
